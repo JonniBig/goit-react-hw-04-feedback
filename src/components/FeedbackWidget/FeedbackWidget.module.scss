@@ -1,0 +1,12 @@
+.buttons {
+  display: flex;
+  justify-content: center;
+  gap: 12px;
+}
+
+.button {
+  text-transform: capitalize;
+}
+.button:hover {
+  background-color: green;
+}
